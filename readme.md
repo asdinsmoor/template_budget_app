@@ -5,7 +5,7 @@
 - You'll need an OPENAI_API_KEY. Add this in config.py
 - Load input data in data/input following the schema provided in the sample 
 - add rules in auto_cat_rules.csv for rules-based (ie based on keywords) categorization
-- list desired catagories and subcategories in the categorizer.py file 
+- list desired categories and subcategories in the categorizer.py file 
 
 ## 2. Run Script to Assign Categories
 
